@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="AskMe"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="33f4b836-27ba-44f2-8e43-c7157973aa47"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>
